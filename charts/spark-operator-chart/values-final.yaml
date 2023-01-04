@@ -1,2 +1,2 @@
-replicaCount: 1
-sparkJobNamespace: "spark-op"
+replicaCount: '2'
+sparkJobNamespace: spark
